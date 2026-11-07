@@ -2,20 +2,19 @@
 
 ### Computer Science Student | AI/ML | Backend Engineering | Product Analytics
 
-I'm a Computer Science student interested in building intelligent systems, scalable backend applications, and data-driven products.
-
-My work spans machine learning, LLM applications, API development, and product analytics — with a focus on turning technical ideas into practical solutions.
+Computer Science student interested in product analytics, intelligent systems, and technology-driven business problem solving. Exploring the intersection of software engineering, AI, and product management.
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| **DIAGNOCARE** | Diabetes monitoring backend integrating temporal ML, XGBoost, and SHAP explainability. |
-| **LaserPoint** | Fine-tuned Mistral-based text summarization model. |
-| **TraceGuard** | Research-oriented behavioral AML framework exploring temporal graph learning and fraud detection. |
-| **Local Mistral Chatbot** | Local LLM application exploring Ollama and prompt engineering. |
-| **TripSafe** | Travel safety application prototype. |
-| **ProductPulse** | Product analytics project focused on metrics, insights, and actionable recommendations. |
+| Project | Description | Status |
+|---|---|---|
+| **DIAGNOCARE** | Diabetes risk monitoring backend integrating temporal ML, XGBoost, and SHAP explainability. | Developed |
+| **LaserPoint** | Fine-tuned Mistral-7B for summarization with LoRA, GGUF conversion, and local inference. | Completed |
+| **TraceGuard** | Behavioral analysis module for an AML framework using behavioral embeddings and risk scoring. | Module completed; framework ongoing |
+| **Local Mistral Chatbot** | Local LLM application exploring Ollama and prompt engineering. | Experimental |
+| **TripSafe** | Travel safety application prototype developed during a workshop. | Prototype |
+| **ProductPulse** | Product analytics project focused on metrics, insights, and actionable recommendations. | Planned |
+
 
 ## 🛠️ Technologies & Interests
 
